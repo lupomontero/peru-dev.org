@@ -48,7 +48,6 @@ Ver https://github.com/peru-dev/peru-dev.org#objetivos
 
 * Discusiones abiertas en Discord y GitHub
 * Hangouts abiertos
-* ...
 
 ### 6. Roles
 
